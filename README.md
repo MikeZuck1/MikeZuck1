@@ -17,7 +17,7 @@ Frontend Developer (soon fullstack) | JavaScript, React, Next.js & Firebase
 ### 🔥 What I'm Working On  
 - Innovative projects with React, Next.js & Firebase  
 - High-performance Progressive Web Apps (PWA)
-- Learning NodeJS 
+- Learning NodeJS for backend
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TheMikeZuck) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mikes_code?igsh=YmpicHI2ZDE0OXFl&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mike-batelahoko-585884174/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@mike.batelahoko?_t=ZN-8uiDTK0BISU&_r=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikebatelahoko@outlook.com) 
