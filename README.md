@@ -1,5 +1,5 @@
 # Hi, I'm Mike 👋  
-Frontend Developer (soon fullstack) | JavaScript, React, Next.js & Firebase  
+Frontend & backend developer | Next.js, Node (Express), Firebase & MySQL.  
 
 ### About Me : 
 - Graduated in E-business (i.e. Electronic Business = technology + business).
