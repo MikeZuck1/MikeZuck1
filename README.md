@@ -1,5 +1,5 @@
 # Hi, I'm Mike 👋  
-Frontend & backend developer | Next.js, Node (Express), Firebase & MySQL.  
+Backend software developer | Node -- Express, Nest, MongoDB, MySQL & C programming language.  
 
 ### About Me : 
 - Graduated in E-business (i.e. Electronic Business = technology + business).
