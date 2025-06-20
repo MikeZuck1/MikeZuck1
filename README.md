@@ -4,20 +4,17 @@ Backend software developer | Node -- Express, Nest, PHP (server-side), MongoDB, 
 ### About Me : 
 - Graduated in E-business (i.e. Electronic Business = technology + business).
 - I love solving complex problems and building web apps & software.  
-- Passionate about crafting sleek, interactive, and responsive UIs.  
 - Always learning and experimenting with new technologies.
 - Certified Product Owner & Scrum Master (during my studies).
-- I did the piscine at School 19 (the equivalent of School 42 in France), where I worked with the C programming language.
+- I did the piscine at School 19 (the equivalent of School 42 in France, USA, Japan,..), where I worked with the C programming language.
 
 ### 🛠 Tech Stack  
-- **Frontend:** JavaScript (ES6+), React, Next.js, TailwindCSS  
-- **Backend & DB:** Firebase  
-- **Tools:** Git, Vercel, Figma, VS Code  
+- **Frontend:** JavaScript (ES6+), React, Next.js, TailwindCSS..  
+- **Backend & DB:** Node -- express, Nest, PHP, C -- MongoDB & MySQL   
+- **Tools:** Git, , GitHub, Vercel, VS Code, Netflify
 
 ### 🔥 What I'm Working On  
-- Innovative projects with React, Next.js & Firebase  
-- High-performance Progressive Web Apps (PWA)
-- Learning NodeJS for backend
+- Create servers and databases.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TheMikeZuck) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mikes_code?igsh=YmpicHI2ZDE0OXFl&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mike-batelahoko-585884174/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@mike.batelahoko?_t=ZN-8uiDTK0BISU&_r=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikebatelahoko@outlook.com) 
