@@ -11,7 +11,7 @@ Backend software developer | Node -- Express, Nest, PHP (server-side), MongoDB, 
 ### 🛠 Tech Stack  
 - **Frontend:** JavaScript (ES6+), React, Next.js, TailwindCSS..  
 - **Backend & DB:** Node -- express, Nest, PHP, C -- MongoDB & MySQL   
-- **Tools:** Git, , GitHub, Vercel, VS Code, Netflify
+- **Tools:** Git, GitHub, Vercel, VS Code, Netflify
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TheMikeZuck) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mikes_code?igsh=YmpicHI2ZDE0OXFl&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mike-batelahoko-585884174/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@mike.batelahoko?_t=ZN-8uiDTK0BISU&_r=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikebatelahoko@outlook.com) 
