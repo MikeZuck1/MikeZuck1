@@ -10,7 +10,7 @@ Backend software developer | Node - Express, Nest, PHP (server-side), MongoDB, M
 
 ### 🛠 Tech Stack  
 - **Frontend:** JavaScript (ES6+), React, Next.js, TailwindCSS..  
-- **Backend & DB:** Node -- express, Nest, PHP (server side), C --- MongoDB & MySQL   
+- **Backend & DB:** Node -- express, PHP native (server side), C --- MongoDB & MySQL   
 - **Tools:** Git, GitHub, Vercel, VS Code, Netflify
 
 ## 🌐 Socials:
